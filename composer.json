@@ -1,6 +1,6 @@
 {
     "name": "michelecurletta/laravel-ip-geocoder",
-    "description": "Geocode Ip address",
+    "description": "Geocode Ip address with ease.",
     "homepage": "https://github.com/michelecurletta/laravel-ip-geocoder",
     "keywords":
         [
