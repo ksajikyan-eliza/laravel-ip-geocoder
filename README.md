@@ -42,10 +42,9 @@ IpGeocoder also comes with a facade, which provides an easy way to call the IpGe
 
 ### Usage
 
-Here's how you can use the IpGeocoder
+Here's how you can use the IpGeocoder getting and istance from the container
 
 ```php
-$ipGeocoder = new IpGeocoder;
 $ipGeocoder->getLocationFromIp('93.44.202.59');
 
 /* 
